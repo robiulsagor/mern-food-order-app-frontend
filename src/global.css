@@ -73,4 +73,8 @@
   body {
     @apply bg-background text-foreground;
   }
+  .logo {
+    font-family: "Edu NSW ACT Foundation", cursive;
+    @apply text-orange-500;
+  }
 }

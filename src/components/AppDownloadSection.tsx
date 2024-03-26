@@ -13,8 +13,8 @@ export default function AppDownloadSection() {
           Order Take-away even faster!
         </h2>
         <span className="max-w-[90%] text-slate-600">
-          Download FoodMERN app for faster ordering and personalised
-          recommendations
+          Download <span className="logo"> FoodMERN </span> app for faster
+          ordering and personalised recommendations
         </span>
 
         <img src={appDownload} alt="" />

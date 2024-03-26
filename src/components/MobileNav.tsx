@@ -19,7 +19,10 @@ export default function MobileNav() {
       <SheetContent>
         <SheetHeader>
           <SheetTitle className="text-center font-bold">
-            <span>Welcome to FoodMERN.com</span>
+            <span>
+              Welcome to{" "}
+              <span className="logo text-orange-500"> FoodMERN.com</span>
+            </span>
           </SheetTitle>
           <Separator />
           <SheetDescription className="flex">

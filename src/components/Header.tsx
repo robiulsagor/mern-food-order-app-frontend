@@ -8,7 +8,7 @@ export default function Header() {
       <div className="container mx-auto flex justify-between items-center">
         <Link
           to="/"
-          className="text-3xl font-bold text-orange-600 tracking-tight"
+          className="text-3xl font-bold text-orange-600 tracking-tight logo"
         >
           FoodMERN.com
         </Link>
